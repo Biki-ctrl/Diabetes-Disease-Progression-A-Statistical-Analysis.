@@ -11,11 +11,11 @@ The objective of this study is to predict the progression of diabetes using two 
 
 The first step in this study was to assess the correlations between the independent variables. This was done using a scatter plot. After that, the linear regression model was used to examine the relationship between BMI and disease progression and to test the hypothesis that no such relationship exists.
 
-The multiple regression model was employed when multiple variables were believed to influence the dependent variable. The aim was to determine which variables significantly affect the dependent variable and which do not. The model was evaluated for its performance, and if found to be adequate, the independent variables were plugged into the regression formula to predict the dependent variable.
+The multiple linear  regression model was employed when multiple variables were believed to influence the dependent variable. The aim was to determine which variables significantly affect the dependent variable and which do not. The model was evaluated for its performance, and if found to be adequate, the independent variables were plugged into the regression formula to predict the dependent variable.
 
 ## Results
 
-The results of this study showed that the linear regression model was adequate in examining the relationship between BMI and disease progression. The hypothesis that no such relationship exists was either rejected or failed to be rejected based on the evaluation of various performance measures and statistical results.
+The results of this study showed that the multiple linear regression model was adequate in examining the relationship between BMI and disease progression. The hypothesis that no such relationship exists was either rejected or failed to be rejected based on the evaluation of various performance measures and statistical results.
 
 ## Conclusion
 
