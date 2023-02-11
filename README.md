@@ -20,6 +20,7 @@ The results of this study showed that the linear regression model was adequate i
 ##Conclusion
 
 In conclusion, this study aimed to predict the progression of diabetes using linear and multiple regression models and to examine the relationship between the independent variables and the dependent variable. The results of this study will contribute to a better understanding of the factors that influence the progression of diabetes.
+
 ##Data Sources
 
 The data used in this study was obtained from the following source:
